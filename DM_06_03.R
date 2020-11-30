@@ -1,6 +1,6 @@
 # DM_06_03.R
 
-# INSTALL AND LOAD PACKAGES ################################
+# INSTALL AND LOAD PACKAGES ###############################
 
 pacman::p_load(arules, arulesViz) 
 
